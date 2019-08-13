@@ -1,2 +1,6 @@
 # Thinkberry
-This is a diabetes app
+
+
+Welcome to the diabetes app
+
+This is a diabete app that helps diabetes manage their conditions.
